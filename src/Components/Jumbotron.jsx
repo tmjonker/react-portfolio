@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col";
 
 function Jumbotron(props) {
   return (
-    <section id="jumbotron-greeting">
+    <section id="home">
       <div class="jumbotron jumbotron-fluid">
         <Container>
           <Row>
