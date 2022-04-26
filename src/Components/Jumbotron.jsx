@@ -6,7 +6,7 @@ import Col from "react-bootstrap/Col";
 function Jumbotron(props) {
   return (
     <section id="home">
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron jumbotron-fluid w-100">
         <Container>
           <Row>
             <Col>
