@@ -16,7 +16,6 @@ function Header(props) {
               <Nav.Link href="#projects">Projects</Nav.Link>
               <Nav.Link href="#resume">Resume</Nav.Link>
               <Nav.Link href="#skills">Skills</Nav.Link>
-              <Nav.Link href="#skills">Contact</Nav.Link>
             </Nav>
             <Nav className="ml-auto">
               <Nav.Link href="https://www.linkedin.com/in/tmjonker8">
