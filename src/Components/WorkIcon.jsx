@@ -4,7 +4,7 @@ function WorkIcon(props) {
 
     return (
 
-        <img class="resume-icon" src="../images/portfolio.png" />
+        <img class="resume-icon" src="../images/portfolio.png" alt="portfolio" />
     );
 }
 

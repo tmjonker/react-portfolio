@@ -4,7 +4,7 @@ function SchoolIcon(props) {
 
     return (
 
-        <img class="resume-icon" src="../images/open-book.png" />
+        <img class="resume-icon" src="../images/open-book.png" alt="school book" />
     );
 }
 
