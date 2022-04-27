@@ -7,7 +7,7 @@ function Header(props) {
   return (
     <header>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed="top">
-        <Container className="container-fluid">
+        <Container fluid="xxl">
           <Navbar.Brand href="#home">Timothy Jonker</Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse id="responsive-navbar-nav">

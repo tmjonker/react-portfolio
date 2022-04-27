@@ -116,6 +116,29 @@ footer {
   text-align: center;
 }
 
+.react {
+
+  width: 30%;
+}
+
+
+.skill-row {
+
+  margin-top: 30px;
+}
+.java {
+  width: 45%;
+  margin-right: 100px;
+}
+
+.html {
+  width: 60%;
+}
+
+.spring {
+  width: 30%;
+}
+
 .timeline {
   margin-bottom: 100px;
   padding-top: 40px;
