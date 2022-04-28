@@ -15,6 +15,7 @@ function Projects(props) {
             <hr />
             <Carousel className="carousel">
               <Carousel.Item>
+                <h4>Password Manager</h4>
                 <a href="https://github.com/tmjonker/PasswordManager">
                   <Picture
                     class="d-block w-40 project-img"
@@ -24,6 +25,7 @@ function Projects(props) {
                 </a>
               </Carousel.Item>
               <Carousel.Item>
+                <h4>Pong</h4>
                 <a href="https://github.com/tmjonker/pong">
                   <Picture
                     class="d-block w-40 project-img"
@@ -33,6 +35,7 @@ function Projects(props) {
                 </a>
               </Carousel.Item>
               <Carousel.Item>
+                <h4>Food2u - a food delivery concept</h4>
                 <a href="https://github.com/tmjonker/food2u">
                   <Picture
                     class="d-block w-40 project-img"

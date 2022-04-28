@@ -88,6 +88,10 @@ hr {
   margin-bottom: 75px;
 }
 
+h4 {
+  text-align: center;
+}
+
 .project-img {
   margin: auto;
 }
