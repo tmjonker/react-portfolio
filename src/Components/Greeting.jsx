@@ -21,13 +21,6 @@ function Greeting(props) {
                   />
                   <hr />
                   <Paragraph
-                    class="about-me first-paragraph"
-                    text="I've been working in the transportation industry for the greater
-                  part of 12 years in a multitude of roles. I've been a warehouse worker, administrative associate,
-                  route coordinator, and manager. While I love and adore the industry and those I've shared a workspace
-                  with,   I've made a decision to pivot toward a career in software development."
-                  />
-                  <Paragraph
                     class="about-me"
                     text="I've been working exhaustively toward getting myself ready to
                   enter the workforce as a software developer by taking classes on web design, java development,
