@@ -25,7 +25,7 @@ function Greeting(props) {
                     text="I've been working in the transportation industry for the greater
                   part of 12 years in a multitude of roles. I've been a warehouse worker, administrative associate,
                   route coordinator, and manager. While I love and adore the industry and those I've shared a workspace
-                  with,   I've made a decision to pivot toward a career that is closer to my heart: software development."
+                  with,   I've made a decision to pivot toward a career in software development."
                   />
                   <Paragraph
                     class="about-me"
